@@ -2,6 +2,12 @@
 require 'net/http'
 require 'getoptlong'
 require 'socket'
+###################################################################################################
+# Small demo ruby script for checking some local http stats and sending to graphite using sockets #
+###################################################################################################
+
+
+
 
 # Declaring options, variables and usage
 
